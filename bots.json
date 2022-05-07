@@ -1,0 +1,7 @@
+[
+    {
+        "name": "neenbot",
+        "token": "process.env.TOKENS",
+        "adminIDs": "972333354659741716"
+    }
+]
